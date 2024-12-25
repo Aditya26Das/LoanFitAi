@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pydantic
+streamlit
+requests
+pickle
+joblib
+os
+"fastapi[standard]"
