@@ -4,4 +4,4 @@ joblib
 pandas
 numpy
 uvicorn
-sklearn
+scikit-learn
