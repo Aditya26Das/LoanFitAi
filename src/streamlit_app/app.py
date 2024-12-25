@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # FastAPI endpoint URL
-API_URL = "http://127.0.0.1:8000/predict/"  # Update with the deployed FastAPI URL if needed
+API_URL = "https://loanfitai.onrender.com/predict/"
 
 # Streamlit app title
 st.title("Loan Prediction App")
