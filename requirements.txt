@@ -8,5 +8,6 @@ streamlit
 requests
 pickle
 joblib
+uvicorn
 os
 "fastapi[standard]"
